@@ -10,7 +10,7 @@ In this project, it was predicted if the Falcon 9 first stage will land successf
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-IBM Data Science Professional Certificate
+# IBM Data Science Professional Certificate
 
 This Capstone project was the integral part of the IBM Data science professional certificate. 
 
